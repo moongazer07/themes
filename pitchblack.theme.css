@@ -1,0 +1,55 @@
+/**
+    * @name pitch black colour theme
+    * @version 9.9.9
+    * @description this theme is nice on ur eyes while everything stays visible
+    * @author μmoongazer07#1200
+    * @authorid 589806176334643200 
+    * @website https://github.com/moongazer07
+    * @updateUrl https://cdn.jsdelivr.net/gh/moongazer07/pitchblack@main/pitchblack.theme.css    
+* @source https://github.com/moongazer07/pitchblack
+**/
+
+:root {
+    /* --------- BASE THEME --------- */
+    --blurple-replace: #7289DA;
+    --background-primary: rgb(0, 0, 0);
+    --background-secondary: rgb(0, 0, 0);
+    --background-secondary-alt: rgb(0, 0, 0);
+    --background-tertiary: rgb(0, 0, 0);
+    --background-accent: rgb(35, 145, 20);
+    --background-floating: rgb(0, 0, 0);
+    --userarea-background: var(--background-tertiary);
+    --header-primary: rgb(202, 67, 67);
+    --header-secondary: #1962ce;
+    --elevation-low: 0 1px 0 rgb(7, 7, 165), 0 1.5px 0 rgba(60, 60, 70, 0.05), 0 2px 0 rgba(40, 40, 50, 0.05);
+    --elevation-high: 0 8px 16px rgba(99, 146, 248, 0.356);
+    --channels-default: #d61010;
+    --channeltextarea-background: rgb(0, 0, 0);
+    --guild-header-text-shadow: 0 1px 1px rgba(255, 255, 255, 0.815);
+    --activity-card-background: #174911;
+    --interactive-normal: #16dfbdf8;
+    --interactive-hover: #cc91ee;
+    --interactive-active: rgb(255, 23, 23);
+    --interactive-muted: rgba(59, 252, 0, 0.541);
+    --background-modifier-hover: rgba(233, 29, 29, 0.719);
+    --background-modifier-active: rgb(85, 30, 85);
+    --background-modifier-selected: rgba(151, 14, 14, 0.32);
+    --background-modifier-accent: hsla(180, 93%, 27%, 0.37);
+    --text-link: #073e91;
+    --text-normal: #19774b;
+    --text-muted: #2c8a56;
+    --deprecated-panel-background: #0756f5ab;
+    --deprecated-card-bg: rgba(32, 34, 37, 0.6);
+    --deprecated-card-editable-bg: rgba(32, 34, 37, 0.3);
+    --deprecated-store-bg: #36393f;
+    --deprecated-quickswitcher-input-background: #72767d;
+    --deprecated-quickswitcher-input-placeholder: hsla(286, 100%, 50%, 0.3);
+    --deprecated-text-input-bg: rgba(0, 0, 0, 0.1);
+    --deprecated-text-input-border: rgba(0, 0, 0, 0.3);
+    --deprecated-text-input-border-hover: #71a320;
+    --deprecated-text-input-border-disabled: #c1d2eb;
+    --deprecated-text-input-prefix: #749ac0;
+    --background-accent-1: rgb(236, 103, 103);
+    --background-accent-3: rgba(0, 195, 255, 0.24);
+    --background-floating-2: rgba(0, 255, 115, 0.151);
+}
