@@ -1,0 +1,47 @@
+/**
+ * @name rick astley
+ * @author μmoongazer07#1200
+ * @version 19.8.7
+ * @description a theme for those who love rickrolling and rickastley
+ * @source https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Themes/BasicBackground/BasicBackground.theme.css
+ * @invite mwdE4UsfwY
+ * @website https://github.com/moongazer07
+ * @authorId 589806176334643200
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css');
+
+:root {
+  --background: url('https://i.pinimg.com/originals/88/82/bc/8882bcf327896ab79fb97e85ae63a002.gif');
+  --backgroundsize: contain;
+  --backgroundposition: center;
+  --backgroundblur: 0px;
+  --popout: url('https://i.pinimg.com/originals/88/82/bc/8882bcf327896ab79fb97e85ae63a002.gif');
+  --popoutsize: contain;
+  --backgroundposition: center;
+  --popoutblur: 0px;
+  --transparencycolor: 0,0,0;
+  --accentcolor: 89,92,153;
+  --backdrop: rgb(235,127,247,1);
+  --textshadow: rgb(133,190,117,1);
+  --transparencyalpha: 0.24;
+  --messagetransparency: 0.26;
+  --guildchanneltransparency: 0.18;
+  --chatinputtransparency: 2;
+  --memberlisttransparency: 0.36;
+  --font: Comic Sans MS;
+  --textbrightest: 81,93,234;
+  --textbrighter: 207,72,72;
+  --textbright: 94,189,72;
+  --textdark: 203,139,139;
+  --textdarker: 42,154,154;
+  --textdarkest: 38,36,36;
+  --settingsicons: 1;
+  --backdropsize: var(--background-size);
+  --backdropblur: 0px;
+  --version1_0_5: none;
+}
+
+/* Any custom CSS below here */
+
+
